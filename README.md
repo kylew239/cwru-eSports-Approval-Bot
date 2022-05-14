@@ -7,4 +7,4 @@ pip install -U discord.py
 pip install -U python-dotenv
 ```
 
-This file uses a dotenv file for variables specfic to the server. Update the dotenv file based on your own server and bot tokens
+This file uses a dotenv file for variables specfic to the server. Update the dotenv file based on your own server and bot tokens. To run the bot, navigate to the directory and run `python bot.py`
